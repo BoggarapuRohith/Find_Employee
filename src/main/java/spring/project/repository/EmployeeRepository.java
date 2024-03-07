@@ -8,9 +8,8 @@ import spring.project.configure.Employee;
 import java.util.List;
 
 /**
- * @Created 04 / 05 / 2020 - 5:27 PM
  * @project EmployeeSearch
- * @Author Hamdamboy
+ * @Author Rohith
  */
 public interface EmployeeRepository extends CrudRepository<Employee, Long> {
 
